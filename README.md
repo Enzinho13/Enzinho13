@@ -12,17 +12,98 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
 
 
 #
-<h3 align="left">My Stack:</h3> <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<h3 align="left">My Stack:</h3>
+
+<p align="left">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="Bash" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
+  </a>
+</p>
+
+<h3 align="left">Cybersecurity:</h3>
+
+<p align="left">
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/wireshark" height="35" alt="Wireshark" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/burpsuite" height="35" alt="Burp Suite" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/metasploit" height="35" alt="Metasploit" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/kalilinux" height="35" alt="Kali Linux" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/openssl" height="35" alt="OpenSSL" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/owasp" height="35" alt="OWASP" />
+  </a>
+</p>
+
+<h3 align="center">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=enzinho13&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 #
 
