@@ -9,8 +9,9 @@
 
 #
 <p align="left">
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNIP. Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço.
-Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.
+👨‍💻 About Me
+
+Olá! Eu sou Enzo Gabriel, tenho 18 anos e sou apaixonado por tecnologia, programação e cibersegurança. Atualmente curso Engenharia de Software na FIAP e estou aprofundando meus estudos em Pentest e Cybersecurity, explorando principalmente segurança ofensiva, redes, Web Security, CTFs e análise de vulnerabilidades. Também gosto de desenvolver projetos e experimentar diferentes tecnologias, como Python, Java, JavaScript, TypeScript, HTML, CSS, React e Node.js, sempre buscando aprender na prática, entender como as coisas funcionam por trás dos sistemas e transformar cada projeto em uma oportunidade para evoluir.
 
 
 #
