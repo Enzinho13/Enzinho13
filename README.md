@@ -2,7 +2,7 @@
 #
 
 <p align="center">
-  <img src="surreal.gif" width="800" alt="Cybersecurity GIF">
+  <img src="hooded-gaze.webp" width="800" alt="Cybersecurity GIF">
 </p>
 </h3>
 
