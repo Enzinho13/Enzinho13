@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=CreatVibes&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
 #
+
 <p align="center">
-  <img src=".github/workflows/duque github (1280 x 320 px).gif" />
+  <img src="surreal.gif" width="800" alt="Cybersecurity GIF">
 </p>
 </h3>
+
 
 #
 <p align="left">
