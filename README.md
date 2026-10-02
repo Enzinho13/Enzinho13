@@ -11,7 +11,16 @@
 <p align="left">
 👨‍💻 About Me
 
-Olá! Eu sou Enzo Gabriel, tenho 18 anos e sou apaixonado por tecnologia, programação e cibersegurança. Atualmente curso Engenharia de Software na FIAP e estou aprofundando meus estudos em Pentest e Cybersecurity, explorando principalmente segurança ofensiva, redes, Web Security, CTFs e análise de vulnerabilidades. Também gosto de desenvolver projetos e experimentar diferentes tecnologias, como Python, Java, JavaScript, TypeScript, HTML, CSS, React e Node.js, sempre buscando aprender na prática, entender como as coisas funcionam por trás dos sistemas e transformar cada projeto em uma oportunidade para evoluir.
+# Hello!
+
+I'm **Enzo Gabriel**, an 18-year-old developer passionate about technology, programming, and cybersecurity.
+
+I'm currently pursuing a **Software Engineering degree at FIAP**, while deepening my knowledge in **Pentesting and Cybersecurity**, with a focus on **offensive security, networking, Web Security, CTFs, and vulnerability analysis**.
+
+I also enjoy building projects and experimenting with different technologies, including **Python, Java, JavaScript, TypeScript, HTML, CSS, React, and Node.js**. I believe in learning by doing, understanding how systems work behind the scenes, and turning every project into an opportunity to improve and grow.
+
+**Always learning, building, and exploring new technologies.**
+
 
 
 #
