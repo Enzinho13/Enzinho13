@@ -2,13 +2,13 @@
 #
 
 <p align="center">
-  <a href="[https://enzinho13.github.io/Portf-lio/](https://enzinho13.github.io/NEXO/)">
+  <a href="https://enzinho13.github.io/NEXO/">
     <img src="nexo.gif" width="900" height="400">
   </a>
 </p>
 
 <p align="center">
-  <a href="[https://enzinho13.github.io/Portf-lio/](https://enzinho13.github.io/NEXO/)">
+  <a href="https://enzinho13.github.io/NEXO">
     <strong>→ Explore the NEXO</strong>
   </a>
 </p>
