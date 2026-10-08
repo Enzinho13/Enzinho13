@@ -2,7 +2,15 @@
 #
 
 <p align="center">
-  <img src="hooded-gaze.webp" width="800" alt="Cybersecurity GIF">
+  # NEXO
+
+Ideas Connected. Things Built.
+
+[![NEXO Portfolio](./assets/nexo.gif)](https://enzinho13.github.io/Portf-lio/)
+
+### Explore the NEXO
+
+Web Development · AI · Automation · Cybersecurity · Digital Products
 </p>
 </h3>
 
