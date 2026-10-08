@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://enzinho13.github.io/Portf-lio/">
-    <img src="./assets/nexo.gif" width="900" height="400">
+    <img src="nexo.gif" width="900" height="400">
   </a>
 </p>
 
