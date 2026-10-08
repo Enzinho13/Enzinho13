@@ -2,17 +2,16 @@
 #
 
 <p align="center">
-  # NEXO
-
-Ideas Connected. Things Built.
-
-[![NEXO Portfolio](./assets/nexo.gif)](https://enzinho13.github.io/Portf-lio/)
-
-### Explore the NEXO
-
-Web Development · AI · Automation · Cybersecurity · Digital Products
+  <a href="https://enzinho13.github.io/Portf-lio/">
+    <img src="nexo.gif" alt="NEXO — Ideas Connected. Things Built." width="100%">
+  </a>
 </p>
-</h3>
+
+<p align="center">
+  <a href="https://enzinho13.github.io/Portf-lio/">
+    <strong>→ Explore the NEXO</strong>
+  </a>
+</p>
 
 
 #
